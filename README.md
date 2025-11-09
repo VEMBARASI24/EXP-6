@@ -24,7 +24,8 @@ I. Connect the multimeter at the output of kit..
 # Calculation:
 <img width="1295" height="611" alt="image" src="https://github.com/user-attachments/assets/39fba9e1-6f8a-4712-b57e-451c78875438" />
 # Model Graph:
-![WhatsApp Image 2025-11-09 at 23 59 20_74e8cfe3](https://github.com/user-attachments/assets/6db8b5c0-debf-4ab6-8ee7-1eda29579e10)
+<img width="635" height="886" alt="image" src="https://github.com/user-attachments/assets/e8486280-2bec-4df6-8183-b0751bad2072" />
+
 
 
 
